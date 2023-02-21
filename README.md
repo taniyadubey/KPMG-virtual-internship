@@ -8,7 +8,7 @@ The 3 datasets attached from Sprocket Central Pty Ltd. :
 ## TASK 1: Quality Check
 Assess the quality of their data as well as make recommendations on ways to clean the underlying data and mitigate these issues. 
 
-##TASK 2:
+## TASK 2:
 
 Sprocket Central Pty Ltd has given us a new list of 1000 potential customers with their demographics and attributes. However, these customers do not have prior transaction history with the organisation.
 The marketing team at Sprocket Central Pty Ltd is sure that, if correctly analysed, the data would reveal useful customer insights which could help optimise resource allocation for targeted marketing. Hence, improve performance by focusing on high value customers.
